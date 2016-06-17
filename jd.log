@@ -1,0 +1,22 @@
+POST /v1/api HTTP/1.1
+Host: api-quick.jd.com
+User-Agent: WMSDK
+Content-Length: 141
+Content-Type: application/json
+
+
+Hello World!
+POST /v1/api HTTP/1.1
+Host: api-quick.jd.com
+User-Agent: WMSDK
+Content-Length: 141
+Content-Type: application/json
+
+
+POST /v1/api HTTP/1.1
+Host: api-quick.jd.com
+User-Agent: WMSDK
+Content-Length: 141
+Content-Type: application/json
+
+
